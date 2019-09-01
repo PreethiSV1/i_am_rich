@@ -6,4 +6,4 @@ A new simple Flutter application that uses MaterialApp, Scaffold, Image and more
 ![i_am_rich_structure](https://user-images.githubusercontent.com/40830235/64073013-ea167d00-ccb5-11e9-80f7-78c04552bab3.png)
 
 ## Screenshot of the Simulator running I Am Rich App (iPhone XR)
-![Simulator Screen Shot - iPhone Xʀ - 2019-09-01 at 12 28 14](https://user-images.githubusercontent.com/40830235/64073028-3366cc80-ccb6-11e9-9342-6b944c1318b7.png)
+![image](https://user-images.githubusercontent.com/40830235/64073075-b38d3200-ccb6-11e9-8bd3-3e075aa14947.png)
